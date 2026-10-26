@@ -1,0 +1,12 @@
+{
+  "name": "instagram-skills-fr",
+  "description": "9 skills Instagram en français pour Claude : légende avec hook dans les 125 premiers caractères, carrousel slide par slide, analyse du hook d'un reel viral, hashtags mesurés, nettoyage des tics d'IA avec relecture avant publication, recyclage de contenu, optimisation du profil, lecture du niche via Apify et planification de la semaine. Claude écrit, tu publies.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Christelle (christelle-stack)",
+    "url": "https://github.com/christelle-stack"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/christelle-stack/instagram-skills-fr",
+  "keywords": ["instagram", "reels", "carrousel", "legende", "hashtags", "claude-skills", "francais", "createurs", "marketing"]
+}

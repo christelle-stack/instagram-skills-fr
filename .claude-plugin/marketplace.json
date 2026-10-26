@@ -1,0 +1,26 @@
+{
+  "name": "instagram-skills-fr",
+  "owner": {
+    "name": "Christelle (christelle-stack)",
+    "url": "https://github.com/christelle-stack"
+  },
+  "metadata": {
+    "description": "Skills Instagram en français pour Claude : légendes, carrousels, hooks, hashtags, planning de la semaine, profil, nettoyage des tics d'IA et lecture du niche."
+  },
+  "plugins": [
+    {
+      "name": "instagram-skills-fr",
+      "source": "./",
+      "description": "Bundle de 9 skills Instagram en français : légende avec hook avant le pli des 125 caractères, planificateur de carrousel (2 à 10 slides), extraction du hook d'un viral, hashtags mesurés en 3 à 5, humanizer avec audit avant publication, recyclage cross-plateforme, optimiseur de profil, insights du niche via Apify et planificateur de semaine. Claude écrit, tu publies toi-même dans l'app.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Christelle (christelle-stack)",
+        "url": "https://github.com/christelle-stack"
+      },
+      "homepage": "https://github.com/christelle-stack/instagram-skills-fr",
+      "license": "MIT",
+      "keywords": ["instagram", "reels", "carrousel", "legende", "hashtags", "claude-skills", "francais"],
+      "category": "productivity"
+    }
+  ]
+}
