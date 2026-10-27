@@ -19,3 +19,6 @@ page/
 # vidéo du freebie : hors dépôt public
 reel/
 REEL-PRET/
+
+# musique générée (Freepik), pas dans le dépôt
+reel/media/musique.mp3
